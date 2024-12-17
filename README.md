@@ -6,4 +6,4 @@ These code either came from questions that I wrote for homework/recitation/exams
 As an undergrad TA, I wrote 15 questions per week and taught 2 60min recitation classes per week. 
 
 # Course Info
-This is the [course webpage](https://www3.cs.stonybrook.edu/~pramod.ganapathi/CSE214.html) (could be inactive after Fall 2024). 
+This is the [course webpage](https://www3.cs.stonybrook.edu/~pramod.ganapathi/CSE214.html) (could be inactive after Fall 2024)
